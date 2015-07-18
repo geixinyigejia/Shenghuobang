@@ -82,3 +82,4 @@ F:\Terry wan\Git\Shenghuobang\Shenghuobang\Shenghuobang\bin\zh-Hans\System.Web.W
 F:\Terry wan\Git\Shenghuobang\Shenghuobang\Shenghuobang\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 F:\Terry wan\Git\Shenghuobang\Shenghuobang\Shenghuobang\obj\Debug\Shenghuobang.dll
 F:\Terry wan\Git\Shenghuobang\Shenghuobang\Shenghuobang\obj\Debug\Shenghuobang.pdb
+F:\Terry wan\Git\Shenghuobang\Shenghuobang\Shenghuobang\obj\Debug\Shenghuobang.csprojResolveAssemblyReference.cache
